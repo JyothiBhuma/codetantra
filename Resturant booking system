@@ -1,7 +1,3 @@
-// Correct Solution for Restaurant Table Booking System
-
-// Backend: Node.js with Express
-// File: server.js
 const express = require('express');
 const cors = require('cors');
 const app = express();
